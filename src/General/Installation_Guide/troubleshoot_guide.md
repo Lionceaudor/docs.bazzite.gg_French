@@ -34,7 +34,7 @@ The "code 1" error is a generic error code that appears during installation when
 - **Existing Linux Installation:** If you've previously installed another Linux on the same drive, the installer might fail when installing the bootloader with a 'bootloader write config' error.
   - This can happen even if the previous Linux installation is no longer functional. It is known to occur with both **Fedora-based** (Fedora, Fedora Atomic, Bazzite, Nobara, etc.) and **Ubuntu-based** (Ubuntu, Mint, PopOS, etc.) distros.
   - **Fix 1:** Separate drive: If your hardware supports more than 1 SSD, install Bazzite on a different drive that has not seen Linux before.
-  - **Fix 2:** Manually remove the existing Linux from the EFI: The video below explains one way to resolve this for a previous Fedora or Ubuntu installation. [Please see below for instructions.](#how-to-remove-an-orphaned-copy-of-grub)
+  - **Fix 2:** Manually remove the existing Linux from the EFI:  [Please see below for instructions.](#how-to-remove-an-orphaned-copy-of-grub)
   - **Fix 3:** Delete the existing EFI partition on the drive: If you are NOT planning on dual-booting, use GParted or Disks to remove the existing EFI.
     - **Warning:** This is **irreversible** and will remove every other operating system on the drive, **including Windows**
   - **Fix 4:** Create a new EFI partition: You can use manual partitioning as described in the [Manual Partitioning Guide](./manual_partitioning.md) to create a new EFI partition alongside the existing one to accomplish this.
