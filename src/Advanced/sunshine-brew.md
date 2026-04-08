@@ -21,13 +21,19 @@ The guide below will walk you through switching to the Homebrew Sunshine package
 2. Select **Enable** or **Enable(Beta)** if you want the beta version of Sunshine
 ![Bazzite Portal Submenu Preview|500x400](../img/sunshine-bazzite-portal-submenu.png)
 3. A Terminal Window will appear. Wait for the installation to complete and you will be prompted to input your password to enable screen capture through **Kernel Mode Setting**.
-4. Disable the old Sunshine service by opening a new terminal window and run `systemctl --user disable --now app-dev.lizardbyte.app.Sunshine.service`
+4. Disable the old Sunshine service by opening a new terminal window and run 
+```bash
+systemctl --user disable --now app-dev.lizardbyte.app.Sunshine.service
+```
 ![Disable Old Service Preview|800x600](../img/disable-old-sunshine.png)
 5. This is a good time to test if your new setup works - Your settings should persist.
 
 ## Something went wrong, what should I do?
 ### `The brew link step did not complete successfully`
 ![Brew Link Fail Preview|800x400](../img/brew-link-fail.png)
-To fix this, make the directory by running `mkdir -p /home/linuxbrew/.linuxbrew/Cellar/xkeyboard-config/2.47/share/xkeyboard-config-2`
+To fix this, make the directory by running 
+```bash
+mkdir -p /home/linuxbrew/.linuxbrew/Cellar/xkeyboard-config/2.47/share/xkeyboard-config-2
+```
 
 If you encounter any other issues, feel free to reach out on the [Bazzite Discord](/community/)!
