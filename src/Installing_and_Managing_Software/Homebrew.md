@@ -22,7 +22,7 @@ brew install <package>
 
 !!! note
 
-    To install packages with brew, you need root privileges because brew uses the `linuxbrew` user to install packages.
+    For multiple user or atypical setups only: Root privileges (`sudo`) will be required to install Homebrew packages because it uses the `linuxbrew` user to install them.
 
 ## Bold Brew
 
