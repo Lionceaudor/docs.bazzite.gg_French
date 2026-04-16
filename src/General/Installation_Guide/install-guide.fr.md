@@ -180,7 +180,7 @@ https://www.youtube.com/watch?v=KAt49B6rSFI
     ![](/img/dualbooting_partitions_windows.png)
     <i><small>Source : [diskpart.com](https://www.diskpart.com/windows-10/windows-10-disk-management-0528.html)</small></i>
     3. Lancez le programme d'installation de Bazzite avec l'option de partition automatique.
-    4. Redémarrez sous Bazzite et exécutez `ujust regenerate-grub` dans le terminal pour ajouter Windows au GRUB.
+    4. Redémarrez sous Bazzite et exécutez `ujust regenerate-grub` dans le terminal pour ajouter Windows au menu GRUB.
 
 === "Disque dédié"
 
