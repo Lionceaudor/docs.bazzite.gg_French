@@ -1,8 +1,8 @@
 ---
-title: Configuration après l'installation
+title: Configuration après installation
 ---
 
-# Configuration après l'installation
+# Configuration après installation
 
 ## Configuration au premier démarrage
 

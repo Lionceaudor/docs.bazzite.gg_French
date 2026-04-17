@@ -39,7 +39,7 @@ hide:
 
   <small>L'ordre correspond au niveau de recommandation.</small>
 
-  1. [Portail Bazzite][ujust] pour utiliser les installeurs personnalisés de Bazzite.
+  1. [Portail Bazzite][ujust] pour utiliser les installateurs personnalisés de Bazzite.
      {style="list-style-type: decimal;"}
   2. [Bazaar App Store (Flatpak)][flatpak] pour la plupart des apps.
      {style="list-style-type: decimal;"}
