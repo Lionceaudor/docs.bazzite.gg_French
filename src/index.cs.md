@@ -25,7 +25,7 @@ hide:
 
 - [:material-controller: **Hraní her**][gaming]{ style="font-size: 1.1rem" }
 
-  Bazzite přichází rovnou s :fontawesome-brands-steam: [Steamem](https://store.steampowered.com) a [Lutrisem](Gaming/Game_Launchers.md#non-steam-games), takže si zahraješ prakticky cokoliv<sup>1</sup> na různých konfiguracích!
+  Bazzite přichází rovnou s :fontawesome-brands-steam: [Steamem](https://store.steampowered.com) a [Lutrisem](/Gaming/Game_Launchers.md#non-steam-games), takže si zahraješ prakticky cokoliv<sup>1</sup> na různých konfiguracích!
 
   Je také kompatibilní s nástroji jako:
 
