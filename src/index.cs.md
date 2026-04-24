@@ -8,7 +8,7 @@ hide:
 
 <div class="grid cards _bz" markdown>
 
-- [:material-harddisk: **Instalace Bazzite**](General/Installation_Guide/index.md){ style="font-size: 1.1rem" }
+- [:material-harddisk: **Instalace Bazzite**](/General/Installation_Guide/index.md){ style="font-size: 1.1rem" }
 
   Bazzite funguje na většině moderních desktopů a notebooků, včetně speciálních modelů jako [Framework](https://frame.work/). <br>
 
